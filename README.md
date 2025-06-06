@@ -25,7 +25,7 @@ This Tableau project visualizes the COVID-19 pandemic’s trajectory across New 
 - Patients Admitted by Age Group (2020–2022)
 - Admissions vs Fatalities in Age 65+
 
-![image](https://github.com/user-attachments/assets/aa27b4a5-86d4-43be-894a-66190ae04727)
+![image](https://github.com/user-attachments/assets/2be7e191-9526-4c24-b5cd-8539889c3786)
 
 ---
 
@@ -38,7 +38,7 @@ This Tableau project visualizes the COVID-19 pandemic’s trajectory across New 
 - Vaccination Doses by Quarter – Queens
 - ICU Bed Occupancy – Queens
 
-![image](https://github.com/user-attachments/assets/953f3b43-fcfe-460f-b0c0-71ebb2538b49)
+![image](https://github.com/user-attachments/assets/80a1ad38-846d-45fc-9216-75b2ae72b210)
 
 ---
 
@@ -51,7 +51,7 @@ This Tableau project visualizes the COVID-19 pandemic’s trajectory across New 
 - COVID-19 Positive vs Hospitalization (County-wise)
 - COVID-19 Cases vs Fatalities (State)
 
-![image](https://github.com/user-attachments/assets/193f4046-9130-4350-9417-1aa5c198ae56)
+![image](https://github.com/user-attachments/assets/1be66e0c-c704-430d-ba62-a1cf4038e577)
 
 ---
 
@@ -64,7 +64,7 @@ This Tableau project visualizes the COVID-19 pandemic’s trajectory across New 
 - First Dose Per Month
 - First Dose vs Newly Admitted Patients
 
-![image](https://github.com/user-attachments/assets/e3d5ab24-c35b-48fd-919a-d8760ad76754)
+![image](https://github.com/user-attachments/assets/dd3d88e2-3c27-4674-a887-9759103430b2)
 
 ---
 
@@ -77,7 +77,7 @@ This Tableau project visualizes the COVID-19 pandemic’s trajectory across New 
 - Discharges vs Staffed Beds (Facilities)
 - Timeline of Staffed Bed Utilization
 
-![image](https://github.com/user-attachments/assets/8b24396a-def1-4e2e-aadb-2268095d0759)
+![image](https://github.com/user-attachments/assets/abc16f4b-4b86-45c9-a377-062367110c8e)
 
 ---
 
